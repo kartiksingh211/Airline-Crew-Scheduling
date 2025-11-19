@@ -1,5 +1,9 @@
-# Airline Crew Scheduling – Backtracking & Constraint Satisfaction
+# Airline Crew Scheduling – Backtracking & Constraint Satisfaction  
+**Course:** ENCA351 — Design and Analysis of Algorithms (Lab Assignment 4)  
+**Name:** Kartik Singh  
+**Semester:** V  
 
+---
 ## Problem Description
 This project models a simplified airline crew scheduling problem.
 We assign flights to crew members while ensuring:
